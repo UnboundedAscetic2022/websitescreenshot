@@ -1,17 +1,32 @@
 # Website Screenshot
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md) | [Deutsch](README.de-DE.md) | [한국어](README.ko-KR.md) | [Français](README.fr-FR.md) | [Português (Brasil)](README.pt-BR.md) | [العربية](README.ar-SA.md) | [Русский](README.ru-RU.md) | [Bahasa Melayu](README.ms-MY.md)
+
 Ein mehrsprachiges Tool, um Websites, HTML und mobile Seiten als **JPG, PNG, WebP oder PDF** zu speichern.
 
-## Wofür es genutzt wird
+## Wofür es gedacht ist
 
-- Website-Screenshot
-- HTML zu Bild oder PDF
-- Vorschau in iPhone-Größen
-- Vorschau in Android-Größen
-- Full-Page-Screenshot
-- Webseite als PDF speichern
+Website Screenshot bündelt mehrere eng verwandte Aufgaben:
 
-## Zentrale Seiten
+- website screenshot
+- webpage screenshot
+- website snap
+- HTML to image
+- HTML to PDF
+- iPhone screenshot
+- Android screenshot
+- full page screenshot
+
+## Was Sie tun können
+
+- eine URL als Bild oder PDF speichern
+- eine ganze Seite statt nur den sichtbaren Bereich erfassen
+- Layouts in iPhone-Größen prüfen
+- Layouts in Android-Größen prüfen
+- HTML und CSS als Bild exportieren
+- HTML und CSS als PDF rendern
+
+## Wichtige Seiten
 
 - `website-screenshot`
 - `html-screenshot`
@@ -24,9 +39,9 @@ Ein mehrsprachiges Tool, um Websites, HTML und mobile Seiten als **JPG, PNG, Web
 ## Geeignet für
 
 - Designer für Responsive Checks
-- QA-Teams für lange Seiten und Layout-Prüfung
-- Marketing-Teams für Landingpage-Previews
-- Entwickler für HTML-Templates und Komponenten
+- QA-Teams für lange Seiten und UI-Prüfung
+- Marketing-Teams für Landingpage-Vorschauen
+- Entwickler für HTML-Templates
 
 ## Lokal starten
 
@@ -35,7 +50,3 @@ pnpm install
 pnpm run build
 PORT=3021 pnpm start
 ```
-
-## API
-
-- [API_USAGE.md](/Users/ericwu/MinibuddyFolder/WebSite/40%20htmtoimage/htmltoimage-showcase/API_USAGE.md)

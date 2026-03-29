@@ -1,15 +1,30 @@
 # Website Screenshot
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md) | [Deutsch](README.de-DE.md) | [한국어](README.ko-KR.md) | [Français](README.fr-FR.md) | [Português (Brasil)](README.pt-BR.md) | [العربية](README.ar-SA.md) | [Русский](README.ru-RU.md) | [Bahasa Melayu](README.ms-MY.md)
+
 أداة متعددة اللغات لالتقاط مواقع الويب وملفات HTML والصفحات المحمولة بصيغ **JPG وPNG وWebP وPDF**.
 
-## الاستخدامات الرئيسية
+## ما الذي يغطيه المنتج
 
-- لقطة شاشة لموقع ويب
-- تحويل HTML إلى صورة أو PDF
-- معاينة الصفحة بأحجام iPhone
-- معاينة الصفحة بأحجام Android
-- لقطة شاشة لصفحة كاملة
-- حفظ صفحة ويب كملف PDF
+Website Screenshot يجمع عدة احتياجات مترابطة:
+
+- website screenshot
+- webpage screenshot
+- website snap
+- HTML to image
+- HTML to PDF
+- iPhone screenshot
+- Android screenshot
+- full page screenshot
+
+## ماذا يمكنك أن تفعل
+
+- حفظ الرابط كصورة أو PDF
+- التقاط الصفحة كاملة وليس الجزء الظاهر فقط
+- معاينة الموقع بأحجام iPhone
+- معاينة الموقع بأحجام Android
+- تحويل HTML وCSS إلى صورة
+- تحويل HTML وCSS إلى PDF
 
 ## الصفحات الرئيسية
 
@@ -35,7 +50,3 @@ pnpm install
 pnpm run build
 PORT=3021 pnpm start
 ```
-
-## API
-
-- [API_USAGE.md](/Users/ericwu/MinibuddyFolder/WebSite/40%20htmtoimage/htmltoimage-showcase/API_USAGE.md)

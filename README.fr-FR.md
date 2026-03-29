@@ -1,15 +1,30 @@
 # Website Screenshot
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja-JP.md) | [Deutsch](README.de-DE.md) | [한국어](README.ko-KR.md) | [Français](README.fr-FR.md) | [Português (Brasil)](README.pt-BR.md) | [العربية](README.ar-SA.md) | [Русский](README.ru-RU.md) | [Bahasa Melayu](README.ms-MY.md)
+
 Un outil multilingue pour capturer des sites web, du HTML et des pages mobiles en **JPG, PNG, WebP ou PDF**.
 
-## Cas d’usage principaux
+## Ce que le produit couvre
 
-- capture de site web
-- HTML en image ou PDF
-- aperçu en tailles iPhone
-- aperçu en tailles Android
-- capture pleine page
-- page web en PDF
+Website Screenshot réunit plusieurs besoins proches :
+
+- website screenshot
+- webpage screenshot
+- website snap
+- HTML to image
+- HTML to PDF
+- iPhone screenshot
+- Android screenshot
+- full page screenshot
+
+## Ce que vous pouvez faire
+
+- enregistrer une URL en image ou en PDF
+- capturer la page entière et pas seulement l’écran visible
+- prévisualiser un site en tailles iPhone
+- prévisualiser un site en tailles Android
+- transformer du HTML et du CSS en image
+- transformer du HTML et du CSS en PDF
 
 ## Pages principales
 
@@ -24,7 +39,7 @@ Un outil multilingue pour capturer des sites web, du HTML et des pages mobiles e
 ## Pour qui
 
 - designers qui vérifient le responsive
-- équipes QA qui contrôlent les longues pages
+- équipes QA qui contrôlent les pages longues
 - équipes marketing qui sauvegardent des landing pages
 - développeurs qui exportent des templates HTML
 
@@ -35,7 +50,3 @@ pnpm install
 pnpm run build
 PORT=3021 pnpm start
 ```
-
-## API
-
-- [API_USAGE.md](/Users/ericwu/MinibuddyFolder/WebSite/40%20htmtoimage/htmltoimage-showcase/API_USAGE.md)
