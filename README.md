@@ -6,6 +6,10 @@ Capture websites, HTML, and mobile pages as **JPG, PNG, WebP, or PDF**.
 
 **Website Screenshot** is a multilingual screenshot platform built for people who need to turn live web pages, HTML snippets, long-form landing pages, and mobile layouts into shareable visual assets. If you are looking for a **website screenshot tool**, **webpage screenshot generator**, **website snap tool**, **HTML to image converter**, **HTML to PDF workflow**, **iPhone screenshot preview**, **Android screenshot preview**, or **full page screenshot tool**, this project is designed around those real search intents and use cases.
 
+## Live Website
+
+- English homepage: [https://www.websitescreenshot.app/](https://www.websitescreenshot.app/)
+
 ## Why Website Screenshot?
 
 Most screenshot tools solve only one narrow task. One tool captures a URL but cannot handle HTML. Another exports images but not PDF. Another works for desktop but not for mobile review. Another only saves the visible viewport instead of the full page.
@@ -48,6 +52,16 @@ That makes it useful for direct product usage, SEO landing page coverage, and Gi
 - **API-ready architecture**: suitable for automation and product integration
 
 ## Core Product Pages
+
+Explore the main landing pages here:
+
+- Website Screenshot: [https://www.websitescreenshot.app/website-screenshot](https://www.websitescreenshot.app/website-screenshot)
+- HTML Screenshot: [https://www.websitescreenshot.app/html-screenshot](https://www.websitescreenshot.app/html-screenshot)
+- iPhone Screenshot: [https://www.websitescreenshot.app/iphone-screenshot](https://www.websitescreenshot.app/iphone-screenshot)
+- Android Screenshot: [https://www.websitescreenshot.app/android-screenshot](https://www.websitescreenshot.app/android-screenshot)
+- Full Page Screenshot: [https://www.websitescreenshot.app/full-page-screenshot](https://www.websitescreenshot.app/full-page-screenshot)
+- Website to PDF: [https://www.websitescreenshot.app/website-to-pdf](https://www.websitescreenshot.app/website-to-pdf)
+- HTML to PDF: [https://www.websitescreenshot.app/html-to-pdf](https://www.websitescreenshot.app/html-to-pdf)
 
 ### Website Screenshot
 
@@ -262,15 +276,11 @@ Open:
 
 ## Live Demo / Website
 
-Use your deployed domain or local environment to explore:
+Use the live site to explore the full workflow:
 
-- website screenshot
-- HTML screenshot
-- iPhone screenshot
-- Android screenshot
-- full page screenshot
-- website to PDF
-- HTML to PDF
+- Homepage: [https://www.websitescreenshot.app/](https://www.websitescreenshot.app/)
+- Website Screenshot: [https://www.websitescreenshot.app/website-screenshot](https://www.websitescreenshot.app/website-screenshot)
+- Full Page Screenshot: [https://www.websitescreenshot.app/full-page-screenshot](https://www.websitescreenshot.app/full-page-screenshot)
 
 ## FAQ
 

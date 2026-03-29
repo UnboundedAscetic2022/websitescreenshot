@@ -4,6 +4,10 @@
 
 웹사이트, HTML, 모바일 페이지를 **JPG, PNG, WebP, PDF**로 저장할 수 있는 다국어 스크린샷 도구입니다.
 
+## 웹사이트 링크
+
+- 한국어 홈페이지: [https://www.websitescreenshot.app/ko](https://www.websitescreenshot.app/ko)
+
 ## 핵심 가치
 
 Website Screenshot은 여러 관련 니즈를 한 제품 안에 모았습니다.
@@ -28,13 +32,13 @@ Website Screenshot은 여러 관련 니즈를 한 제품 안에 모았습니다.
 
 ## 주요 페이지
 
-- `website-screenshot`
-- `html-screenshot`
-- `iphone-screenshot`
-- `android-screenshot`
-- `full-page-screenshot`
-- `website-to-pdf`
-- `html-to-pdf`
+- Website Screenshot: [https://www.websitescreenshot.app/ko/website-screenshot](https://www.websitescreenshot.app/ko/website-screenshot)
+- HTML Screenshot: [https://www.websitescreenshot.app/ko/html-screenshot](https://www.websitescreenshot.app/ko/html-screenshot)
+- iPhone Screenshot: [https://www.websitescreenshot.app/ko/iphone-screenshot](https://www.websitescreenshot.app/ko/iphone-screenshot)
+- Android Screenshot: [https://www.websitescreenshot.app/ko/android-screenshot](https://www.websitescreenshot.app/ko/android-screenshot)
+- Full Page Screenshot: [https://www.websitescreenshot.app/ko/full-page-screenshot](https://www.websitescreenshot.app/ko/full-page-screenshot)
+- Website to PDF: [https://www.websitescreenshot.app/ko/website-to-pdf](https://www.websitescreenshot.app/ko/website-to-pdf)
+- HTML to PDF: [https://www.websitescreenshot.app/ko/html-to-pdf](https://www.websitescreenshot.app/ko/html-to-pdf)
 
 ## 이런 분에게 적합합니다
 

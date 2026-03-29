@@ -4,6 +4,10 @@
 
 Ein mehrsprachiges Tool, um Websites, HTML und mobile Seiten als **JPG, PNG, WebP oder PDF** zu speichern.
 
+## Website
+
+- Deutsche Startseite: [https://www.websitescreenshot.app/de](https://www.websitescreenshot.app/de)
+
 ## Wofür es gedacht ist
 
 Website Screenshot bündelt mehrere eng verwandte Aufgaben:
@@ -28,13 +32,13 @@ Website Screenshot bündelt mehrere eng verwandte Aufgaben:
 
 ## Wichtige Seiten
 
-- `website-screenshot`
-- `html-screenshot`
-- `iphone-screenshot`
-- `android-screenshot`
-- `full-page-screenshot`
-- `website-to-pdf`
-- `html-to-pdf`
+- Website Screenshot: [https://www.websitescreenshot.app/de/website-screenshot](https://www.websitescreenshot.app/de/website-screenshot)
+- HTML Screenshot: [https://www.websitescreenshot.app/de/html-screenshot](https://www.websitescreenshot.app/de/html-screenshot)
+- iPhone Screenshot: [https://www.websitescreenshot.app/de/iphone-screenshot](https://www.websitescreenshot.app/de/iphone-screenshot)
+- Android Screenshot: [https://www.websitescreenshot.app/de/android-screenshot](https://www.websitescreenshot.app/de/android-screenshot)
+- Full Page Screenshot: [https://www.websitescreenshot.app/de/full-page-screenshot](https://www.websitescreenshot.app/de/full-page-screenshot)
+- Website to PDF: [https://www.websitescreenshot.app/de/website-to-pdf](https://www.websitescreenshot.app/de/website-to-pdf)
+- HTML to PDF: [https://www.websitescreenshot.app/de/html-to-pdf](https://www.websitescreenshot.app/de/html-to-pdf)
 
 ## Geeignet für
 

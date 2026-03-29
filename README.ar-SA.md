@@ -4,6 +4,10 @@
 
 أداة متعددة اللغات لالتقاط مواقع الويب وملفات HTML والصفحات المحمولة بصيغ **JPG وPNG وWebP وPDF**.
 
+## رابط الموقع
+
+- الصفحة العربية: [https://www.websitescreenshot.app/ar](https://www.websitescreenshot.app/ar)
+
 ## ما الذي يغطيه المنتج
 
 Website Screenshot يجمع عدة احتياجات مترابطة:
@@ -28,13 +32,13 @@ Website Screenshot يجمع عدة احتياجات مترابطة:
 
 ## الصفحات الرئيسية
 
-- `website-screenshot`
-- `html-screenshot`
-- `iphone-screenshot`
-- `android-screenshot`
-- `full-page-screenshot`
-- `website-to-pdf`
-- `html-to-pdf`
+- Website Screenshot: [https://www.websitescreenshot.app/ar/website-screenshot](https://www.websitescreenshot.app/ar/website-screenshot)
+- HTML Screenshot: [https://www.websitescreenshot.app/ar/html-screenshot](https://www.websitescreenshot.app/ar/html-screenshot)
+- iPhone Screenshot: [https://www.websitescreenshot.app/ar/iphone-screenshot](https://www.websitescreenshot.app/ar/iphone-screenshot)
+- Android Screenshot: [https://www.websitescreenshot.app/ar/android-screenshot](https://www.websitescreenshot.app/ar/android-screenshot)
+- Full Page Screenshot: [https://www.websitescreenshot.app/ar/full-page-screenshot](https://www.websitescreenshot.app/ar/full-page-screenshot)
+- Website to PDF: [https://www.websitescreenshot.app/ar/website-to-pdf](https://www.websitescreenshot.app/ar/website-to-pdf)
+- HTML to PDF: [https://www.websitescreenshot.app/ar/html-to-pdf](https://www.websitescreenshot.app/ar/html-to-pdf)
 
 ## مناسب لـ
 

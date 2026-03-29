@@ -6,6 +6,10 @@
 
 **Website Screenshot** 是一套围绕真实用户需求打造的多语言截图与导出产品。无论你想做 **网站截图**、**网页截图**、**网页快照**、**URL 转图片**、**HTML 转图片**、**HTML 转 PDF**、**iPhone 截图预览**、**Android 截图预览**，还是 **整页截图**、**长网页截图**、**网页转 PDF**，这套项目都能覆盖。
 
+## 网站入口
+
+- 中文首页：[https://www.websitescreenshot.app/zh](https://www.websitescreenshot.app/zh)
+
 ## 为什么值得用
 
 很多工具只能解决一个点状需求：
@@ -41,16 +45,16 @@ Website Screenshot 把这些相互关联的需求统一到一个产品里：
 
 ## 核心页面
 
-- `website-screenshot`
-- `html-screenshot`
-- `iphone-screenshot`
-- `android-screenshot`
-- `full-page-screenshot`
-- `website-to-pdf`
-- `html-to-pdf`
-- `website-full-page-screenshot`
-- `iphone-full-page-screenshot`
-- `android-full-page-screenshot`
+- 网站截图：[https://www.websitescreenshot.app/zh/website-screenshot](https://www.websitescreenshot.app/zh/website-screenshot)
+- HTML 截图：[https://www.websitescreenshot.app/zh/html-screenshot](https://www.websitescreenshot.app/zh/html-screenshot)
+- iPhone 截图：[https://www.websitescreenshot.app/zh/iphone-screenshot](https://www.websitescreenshot.app/zh/iphone-screenshot)
+- Android 截图：[https://www.websitescreenshot.app/zh/android-screenshot](https://www.websitescreenshot.app/zh/android-screenshot)
+- 整页截图：[https://www.websitescreenshot.app/zh/full-page-screenshot](https://www.websitescreenshot.app/zh/full-page-screenshot)
+- 网页转 PDF：[https://www.websitescreenshot.app/zh/website-to-pdf](https://www.websitescreenshot.app/zh/website-to-pdf)
+- HTML 转 PDF：[https://www.websitescreenshot.app/zh/html-to-pdf](https://www.websitescreenshot.app/zh/html-to-pdf)
+- 网站整页截图：[https://www.websitescreenshot.app/zh/website-full-page-screenshot](https://www.websitescreenshot.app/zh/website-full-page-screenshot)
+- iPhone 整页截图：[https://www.websitescreenshot.app/zh/iphone-full-page-screenshot](https://www.websitescreenshot.app/zh/iphone-full-page-screenshot)
+- Android 整页截图：[https://www.websitescreenshot.app/zh/android-full-page-screenshot](https://www.websitescreenshot.app/zh/android-full-page-screenshot)
 
 ## 输出格式
 
@@ -120,6 +124,12 @@ Website Screenshot 把这些相互关联的需求统一到一个产品里：
 详见：
 
 - [API_USAGE.md](/Users/ericwu/MinibuddyFolder/WebSite/40%20htmtoimage/htmltoimage-showcase/API_USAGE.md)
+
+## 在线入口
+
+- 中文首页：[https://www.websitescreenshot.app/zh](https://www.websitescreenshot.app/zh)
+- 网站截图：[https://www.websitescreenshot.app/zh/website-screenshot](https://www.websitescreenshot.app/zh/website-screenshot)
+- 整页截图：[https://www.websitescreenshot.app/zh/full-page-screenshot](https://www.websitescreenshot.app/zh/full-page-screenshot)
 
 本地运行：
 

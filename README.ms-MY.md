@@ -4,6 +4,10 @@
 
 Alat berbilang bahasa untuk menangkap laman web, HTML dan halaman mudah alih sebagai **JPG, PNG, WebP atau PDF**.
 
+## Laman Web
+
+- Halaman utama Bahasa Melayu: [https://www.websitescreenshot.app/ms](https://www.websitescreenshot.app/ms)
+
 ## Apa yang produk ini liputi
 
 Website Screenshot menghimpunkan beberapa aliran kerja yang saling berkait:
@@ -28,13 +32,13 @@ Website Screenshot menghimpunkan beberapa aliran kerja yang saling berkait:
 
 ## Halaman utama
 
-- `website-screenshot`
-- `html-screenshot`
-- `iphone-screenshot`
-- `android-screenshot`
-- `full-page-screenshot`
-- `website-to-pdf`
-- `html-to-pdf`
+- Website Screenshot: [https://www.websitescreenshot.app/ms/website-screenshot](https://www.websitescreenshot.app/ms/website-screenshot)
+- HTML Screenshot: [https://www.websitescreenshot.app/ms/html-screenshot](https://www.websitescreenshot.app/ms/html-screenshot)
+- iPhone Screenshot: [https://www.websitescreenshot.app/ms/iphone-screenshot](https://www.websitescreenshot.app/ms/iphone-screenshot)
+- Android Screenshot: [https://www.websitescreenshot.app/ms/android-screenshot](https://www.websitescreenshot.app/ms/android-screenshot)
+- Full Page Screenshot: [https://www.websitescreenshot.app/ms/full-page-screenshot](https://www.websitescreenshot.app/ms/full-page-screenshot)
+- Website to PDF: [https://www.websitescreenshot.app/ms/website-to-pdf](https://www.websitescreenshot.app/ms/website-to-pdf)
+- HTML to PDF: [https://www.websitescreenshot.app/ms/html-to-pdf](https://www.websitescreenshot.app/ms/html-to-pdf)
 
 ## Sesuai untuk
 

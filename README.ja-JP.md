@@ -4,6 +4,10 @@
 
 Webサイト、HTML、モバイルページを **JPG、PNG、WebP、PDF** として保存できる多言語スクリーンショットツールです。
 
+## サイトリンク
+
+- 日本語ホーム: [https://www.websitescreenshot.app/ja](https://www.websitescreenshot.app/ja)
+
 ## 主な価値
 
 Website Screenshot は、次のようなニーズを 1 つにまとめています。
@@ -28,13 +32,13 @@ Website Screenshot は、次のようなニーズを 1 つにまとめていま�
 
 ## 主なページ
 
-- `website-screenshot`
-- `html-screenshot`
-- `iphone-screenshot`
-- `android-screenshot`
-- `full-page-screenshot`
-- `website-to-pdf`
-- `html-to-pdf`
+- Website Screenshot: [https://www.websitescreenshot.app/ja/website-screenshot](https://www.websitescreenshot.app/ja/website-screenshot)
+- HTML Screenshot: [https://www.websitescreenshot.app/ja/html-screenshot](https://www.websitescreenshot.app/ja/html-screenshot)
+- iPhone Screenshot: [https://www.websitescreenshot.app/ja/iphone-screenshot](https://www.websitescreenshot.app/ja/iphone-screenshot)
+- Android Screenshot: [https://www.websitescreenshot.app/ja/android-screenshot](https://www.websitescreenshot.app/ja/android-screenshot)
+- Full Page Screenshot: [https://www.websitescreenshot.app/ja/full-page-screenshot](https://www.websitescreenshot.app/ja/full-page-screenshot)
+- Website to PDF: [https://www.websitescreenshot.app/ja/website-to-pdf](https://www.websitescreenshot.app/ja/website-to-pdf)
+- HTML to PDF: [https://www.websitescreenshot.app/ja/html-to-pdf](https://www.websitescreenshot.app/ja/html-to-pdf)
 
 ## 向いているユーザー
 

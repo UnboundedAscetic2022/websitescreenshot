@@ -4,6 +4,10 @@
 
 Website Screenshot helps users capture live websites, HTML, and mobile layouts as **JPG, PNG, WebP, or PDF**. It is built for people searching for a **website screenshot tool**, **webpage screenshot generator**, **website snap tool**, **HTML to image converter**, **HTML to PDF tool**, **iPhone screenshot preview**, **Android screenshot preview**, and **full page screenshot** workflow.
 
+## Live Website
+
+- English homepage: [https://www.websitescreenshot.app/](https://www.websitescreenshot.app/)
+
 ## Main Product Value
 
 - one place for website screenshot and HTML screenshot
@@ -24,16 +28,16 @@ Website Screenshot helps users capture live websites, HTML, and mobile layouts a
 
 ## Main Flows
 
-- `website-screenshot`
-- `html-screenshot`
-- `iphone-screenshot`
-- `android-screenshot`
-- `full-page-screenshot`
-- `website-to-pdf`
-- `html-to-pdf`
-- `website-full-page-screenshot`
-- `iphone-full-page-screenshot`
-- `android-full-page-screenshot`
+- Website Screenshot: [https://www.websitescreenshot.app/website-screenshot](https://www.websitescreenshot.app/website-screenshot)
+- HTML Screenshot: [https://www.websitescreenshot.app/html-screenshot](https://www.websitescreenshot.app/html-screenshot)
+- iPhone Screenshot: [https://www.websitescreenshot.app/iphone-screenshot](https://www.websitescreenshot.app/iphone-screenshot)
+- Android Screenshot: [https://www.websitescreenshot.app/android-screenshot](https://www.websitescreenshot.app/android-screenshot)
+- Full Page Screenshot: [https://www.websitescreenshot.app/full-page-screenshot](https://www.websitescreenshot.app/full-page-screenshot)
+- Website to PDF: [https://www.websitescreenshot.app/website-to-pdf](https://www.websitescreenshot.app/website-to-pdf)
+- HTML to PDF: [https://www.websitescreenshot.app/html-to-pdf](https://www.websitescreenshot.app/html-to-pdf)
+- Website Full Page Screenshot: [https://www.websitescreenshot.app/website-full-page-screenshot](https://www.websitescreenshot.app/website-full-page-screenshot)
+- iPhone Full Page Screenshot: [https://www.websitescreenshot.app/iphone-full-page-screenshot](https://www.websitescreenshot.app/iphone-full-page-screenshot)
+- Android Full Page Screenshot: [https://www.websitescreenshot.app/android-full-page-screenshot](https://www.websitescreenshot.app/android-full-page-screenshot)
 
 ## Formats
 
@@ -59,6 +63,12 @@ Website Screenshot helps users capture live websites, HTML, and mobile layouts a
 ## API
 
 - [API_USAGE.md](/Users/ericwu/MinibuddyFolder/WebSite/40%20htmtoimage/htmltoimage-showcase/API_USAGE.md)
+
+## Live Demo
+
+- Homepage: [https://www.websitescreenshot.app/](https://www.websitescreenshot.app/)
+- Website Screenshot: [https://www.websitescreenshot.app/website-screenshot](https://www.websitescreenshot.app/website-screenshot)
+- iPhone Screenshot: [https://www.websitescreenshot.app/iphone-screenshot](https://www.websitescreenshot.app/iphone-screenshot)
 
 ## Local Development
 

@@ -4,6 +4,10 @@
 
 Uma ferramenta multilíngue para capturar sites, HTML e páginas mobile em **JPG, PNG, WebP ou PDF**.
 
+## Site
+
+- Página inicial em português: [https://www.websitescreenshot.app/pt](https://www.websitescreenshot.app/pt)
+
 ## O que ela cobre
 
 Website Screenshot reúne vários fluxos relacionados:
@@ -28,13 +32,13 @@ Website Screenshot reúne vários fluxos relacionados:
 
 ## Páginas principais
 
-- `website-screenshot`
-- `html-screenshot`
-- `iphone-screenshot`
-- `android-screenshot`
-- `full-page-screenshot`
-- `website-to-pdf`
-- `html-to-pdf`
+- Website Screenshot: [https://www.websitescreenshot.app/pt/website-screenshot](https://www.websitescreenshot.app/pt/website-screenshot)
+- HTML Screenshot: [https://www.websitescreenshot.app/pt/html-screenshot](https://www.websitescreenshot.app/pt/html-screenshot)
+- iPhone Screenshot: [https://www.websitescreenshot.app/pt/iphone-screenshot](https://www.websitescreenshot.app/pt/iphone-screenshot)
+- Android Screenshot: [https://www.websitescreenshot.app/pt/android-screenshot](https://www.websitescreenshot.app/pt/android-screenshot)
+- Full Page Screenshot: [https://www.websitescreenshot.app/pt/full-page-screenshot](https://www.websitescreenshot.app/pt/full-page-screenshot)
+- Website to PDF: [https://www.websitescreenshot.app/pt/website-to-pdf](https://www.websitescreenshot.app/pt/website-to-pdf)
+- HTML to PDF: [https://www.websitescreenshot.app/pt/html-to-pdf](https://www.websitescreenshot.app/pt/html-to-pdf)
 
 ## Indicado para
 

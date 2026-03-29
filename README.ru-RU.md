@@ -4,6 +4,10 @@
 
 Многоязычный инструмент для сохранения сайтов, HTML и мобильных страниц в **JPG, PNG, WebP и PDF**.
 
+## Сайт
+
+- Русская версия: [https://www.websitescreenshot.app/ru](https://www.websitescreenshot.app/ru)
+
 ## Что охватывает продукт
 
 Website Screenshot объединяет несколько связанных задач:
@@ -28,13 +32,13 @@ Website Screenshot объединяет несколько связанных з
 
 ## Основные страницы
 
-- `website-screenshot`
-- `html-screenshot`
-- `iphone-screenshot`
-- `android-screenshot`
-- `full-page-screenshot`
-- `website-to-pdf`
-- `html-to-pdf`
+- Website Screenshot: [https://www.websitescreenshot.app/ru/website-screenshot](https://www.websitescreenshot.app/ru/website-screenshot)
+- HTML Screenshot: [https://www.websitescreenshot.app/ru/html-screenshot](https://www.websitescreenshot.app/ru/html-screenshot)
+- iPhone Screenshot: [https://www.websitescreenshot.app/ru/iphone-screenshot](https://www.websitescreenshot.app/ru/iphone-screenshot)
+- Android Screenshot: [https://www.websitescreenshot.app/ru/android-screenshot](https://www.websitescreenshot.app/ru/android-screenshot)
+- Full Page Screenshot: [https://www.websitescreenshot.app/ru/full-page-screenshot](https://www.websitescreenshot.app/ru/full-page-screenshot)
+- Website to PDF: [https://www.websitescreenshot.app/ru/website-to-pdf](https://www.websitescreenshot.app/ru/website-to-pdf)
+- HTML to PDF: [https://www.websitescreenshot.app/ru/html-to-pdf](https://www.websitescreenshot.app/ru/html-to-pdf)
 
 ## Для кого
 
